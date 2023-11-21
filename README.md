@@ -1,6 +1,6 @@
 <img align="left" src="https://github.com/AshleyCaroline/ashleycaroline/assets/146993774/72667b80-ed98-4baa-9eb5-33d9e0aaef20" heigth="370px" width="420px">
 
-## Olá meus amores! Me chamo Ashley Caroline (AshleyFlowerr), tenho 16 anos, sou uma menina trans, estou fazendo curso de programção web Full-Stack da Oportunidade Social
+## Olá meus amores! Me chamo Ashley Caroline, tenho 16 anos, sou uma menina trans, estou fazendo curso de programção web Full-Stack da Oportunidade Social
 
 ### Tecnologias que estou aprendendo:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 	![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
